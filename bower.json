@@ -1,0 +1,21 @@
+{
+  "name": "jquery1-dist",
+  "version": "1.11.2",
+  "homepage": "https://github.com/tylerlong/jquery1-dist",
+  "authors": [
+    "Tyler Long <tyler4long@gmail.com>"
+  ],
+  "description": "jquery.min.js",
+  "main": "jquery.min.js",
+  "keywords": [
+    "jquery.min.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
